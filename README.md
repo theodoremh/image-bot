@@ -1,3 +1,3 @@
 # image-bot
-This bpt can receive image 
+This bot can receive image 
 more development comin soon
